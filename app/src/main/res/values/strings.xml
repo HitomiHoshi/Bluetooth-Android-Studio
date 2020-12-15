@@ -17,4 +17,6 @@
     <string name="menu_disconnect">Disconnect</string>
     <string name="menu_scan">Scan</string>
     <string name="menu_stop">Stop</string>
+    <string name="refresh">Refresh</string>
+    <string name="refresh">Refresh</string>
 </resources>
